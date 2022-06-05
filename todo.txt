@@ -1,0 +1,8 @@
+**What we will do next time in Python**
+- How to run the code on your own machine (we went over this a bit but need to make sure it works for everyone)
+- Conditional Logic ( `if`/`else`)
+- Loops (`while` and `for` loops)
+- Built in math functions (`round()`, `floor()`, `ceil()`)
+- Using random numbers
+- Maybe error handling
+- Using these to make a more complex program
